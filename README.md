@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="https://img.freepik.com/vetores-gratis/dois-desenvolvedores-trabalhando-com-ilustracao-de-tecnologia-de-big-data_335657-349.jpg">
+<img align="right" width="350" height="350" src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-programacao_114360-1351.jpg?w=826&t=st=1687059309~exp=1687059909~hmac=f51d2d13d98e64d7f718cb1779d15358bef8b7d634122c4f92346b1c76e7e49b">
 <h1>Seja bem vindo(a)! 👋</h1>
 
 <h2>Eu sou Gabriel Machado! </h2>
