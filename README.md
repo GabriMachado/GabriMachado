@@ -12,7 +12,7 @@ de Desenvolvimento de Software e aprimorando habilidades comportamentais.
 
 <div align="center"> 
 <!--   <a href="https://gisellesouzaa.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-691853?style=for-the-badge&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:gabriel.mach@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriel.mach@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-machado-s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
